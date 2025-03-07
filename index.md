@@ -9,3 +9,6 @@ why is h6 smaller than a paragraph
 ```
 you can add many languages next to the backticks ontop
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
